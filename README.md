@@ -8,5 +8,9 @@ and `say` commands when the battery is either too low (<= 30%) or too high (>= 8
 * [psutil](https://pypi.org/project/psutil/)
 
 ## Installation
-1. ```git clone https://github.com/everthinq/mac.battery.git```
-2. ```pip install -r requirements.txt```
+1. ```sh 
+    git clone https://github.com/everthinq/mac.battery.git
+   ```
+2. ```sh 
+    pip install -r requirements.txt
+   ```
