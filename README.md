@@ -29,4 +29,4 @@ and `say` commands when the battery is either too low (<= 30%) or too high (>= 8
 7. `cd ~/Library/Sounds` and insert any sound notification you want, use the `quack.mp4` as a reference. Also, by this action you're adding the new alert sound in your sound alert list in settings. 
 
 ## Watch the video:
-[![Watch the video](https://img.youtube.com/vi/Ut9l0h5hP6c/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ut9l0h5hP6c)
+[![Watch the video](https://img.youtube.com/vi/Ut9l0h5hP6c/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ut9l0h5hP6c){:target="_blank"}
