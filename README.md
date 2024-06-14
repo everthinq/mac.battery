@@ -26,7 +26,7 @@ and `say` commands when the battery is either too low (<= 30%) or too high (>= 8
     */1 * * * * python3 /Users/everthinq/Projects/battery/battery.py
    ```
 6. [Check crontab.guru and change the schedule if you want](https://crontab.guru/#*/1_*_*_*_*)
-7. `cd ~/Library/Sounds` and insert any sound notification you want, use the `quack.mp4` as a reference. Also, by this action you're adding the new alert sound in your sound alert list in settings. 
+7. `cd ~/Library/Sounds` and insert any sound notification you want, use the `quack.aiff` as a reference. Also, by this action you're adding the new alert sound in your sound alert list in settings. 
 
 ## Watch the video:
 [![Watch the video](https://img.youtube.com/vi/Ut9l0h5hP6c/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ut9l0h5hP6c)
